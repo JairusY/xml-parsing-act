@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<car>
+    <car1>
+        <car_brand>Toyota</car_brand>
+            <pickUp>
+                <specifications>
+                    <model>CONQUEST 2.8 4X4 A/T</model>
+                    <dimension>
+                        <overallDimensions>5,325 x 1,900 x 1,845 (mm)</overallDimensions>
+                        <wheelBase>3085 (mm)</wheelBase>
+                        <seatingCapacity>5</seatingCapacity>
+                    </dimension>
+
+                    <engine>
+                        <engineType>2.8L Diesel, 4-Cylinder, 16-Valve DOHC Variable Nozzle Turbo with Air-cooled Intercooler</engineType>
+                        <engineDisplacement>2,755cc</engineDisplacement>
+                        <fuelCapacity>80 L</fuelCapacity>
+                    </engine>
+
+                    <transmission>
+                        <powerTransmission>6-Speed A/T</powerTransmission>
+                        <frontBrakeRearBrake>Ventilated Discs/ Drum Type</frontBrakeRearBrake>
+                        <tyres> 265/60 R18</tyres>
+                        <wheelsSize>18"</wheelsSize>
+                    </transmission>
+                </specifications>
+
+                <development>
+                    <details>
+                        <location>Japan</location>
+                        <manufacturer>Toyota</manufacturer>
+                        <launched>March 1968</launched>
+                    </details>
+                </development>
+
+                <availability>
+                    <availability1>Trail</availability1>
+                    <availability2>Road</availability2>
+                    <availability3>Race Track</availability3>
+                </availability>
+
+            </pickUp>
+    </car1>
+
+    <car2>
+        <car_brand>Nissan</car_brand>
+            <sportsCar>
+                <specifications>
+                   <model>Nissan Skyline GTR R34</model>
+                   <dimension>
+                        <weight>1560kg</weight>
+                        <wheelBase>2,665 mm (104.9 in)</wheelBase>
+                        <seatingCapacity>2</seatingCapacity>
+                   </dimension>
+
+                   <engine>
+                        <engineType>2.6 L twin-turbocharged RB26DETT I6 2.8 L twin-turbocharged RB28DETT I6 (Z-Tune)</engineType>      
+                        <engineDisplacement>3,798 cc</engineDisplacement>
+                        <fuelCapacity>65 L</fuelCapacity>
+                   </engine>
+
+                   <transmission>
+                        <powerTransmission>	Six-speed manual, four-wheel drive, active rear rear LSD</powerTransmission>
+                        <frontBrakeRearBrake>Multi-link, coil springs, passive dampers, anti-roll bar</frontBrakeRearBrake>
+                        <tyres>245/45 ZR18 front and rear</tyres>
+                        <wheelsSize>18"</wheelsSize>
+                   </transmission>
+                </specifications>
+
+                <development>
+                    <details>
+                        <location>Japan</location>
+                        <manufacturer>Nissan</manufacturer>
+                        <launched>1998 to 2002</launched>
+                    </details>
+                </development>
+
+                <availability>
+                    <availability2>Road</availability2>
+                    <availability3>Race Track</availability3>
+                </availability>
+
+                
+            </sportsCar>
+    </car2>
+
+    <car3>
+        <car_brand>Toyota</car_brand>
+        <SUV>
+            <specifications>
+                <model>Toyota Fortuner 2021</model>
+                    <dimension>
+                        <overallDimensions>4,795 x 1,855 x 1,835 (mm)</overallDimensions>
+                        <wheelBase>2,745 (mm)</wheelBase>
+                        <seatingCapacity>7</seatingCapacity>
+                    </dimension>
+
+                    <engine>
+                        <engineType>4-Cylinder, In-line, 16-Valve DOHC Variable Nozzle Turbo with Air-cooled Intercooler</engineType>
+                        <engineDisplacement>2,755cc</engineDisplacement>
+                        <fuelCapacity>80 L</fuelCapacity>
+                    </engine>
+
+                    <transmission>
+                        <powerTransmission>6-Speed A/T</powerTransmission>
+                        <frontBrakeRearBrake>Ventilated Discs/ Drum Type</frontBrakeRearBrake>
+                        <tyres> 265/60 R18</tyres>
+                        <wheelsSize>18" Alloy Wheel with Machine Cut Finish</wheelsSize>
+                    </transmission>
+            </specifications>
+
+            <development>
+                <details>
+                    <location>Japan</location>
+                    <manufacturer>Toyota</manufacturer>
+                    <launched>January 2021</launched>
+                </details>
+            </development>
+
+            <availability>
+                <availability1>Trail</availability1>
+                <availability2>Road</availability2>
+            </availability>
+
+            
+        </SUV>
+    </car3>
+
+    <car4>
+        <car_brand>Lamborghini</car_brand>
+        <superCar>
+             <specifications>
+                <model>Toyota Fortuner 2021</model>
+                    <dimension>
+                        <overallDimensions>4868*2273*1136 (mm)</overallDimensions>
+                        <wheelBase>2,700 (mm)</wheelBase>
+                        <seatingCapacity>2</seatingCapacity>
+                    </dimension>
+
+                    <engine>
+                        <engineType>V12, 60°, MPI Petrol Engine</engineType>
+                        <engineDisplacement>6498 cc</engineDisplacement>
+                        <fuelCapacity>80 L</fuelCapacity>
+                    </engine>
+
+                    <transmission>
+                        <powerTransmission>6-Speed A/T</powerTransmission>
+                        <frontBrakeRearBrake>Carbon Ceramic Brake</frontBrakeRearBrake>
+                        <tyres> 255/35 R19 96Y</tyres>
+                        <wheelsSize>20 Tubeless Radial</wheelsSize>
+                    </transmission>
+            </specifications>
+
+            <development>
+                <details>
+                    <location>Italy</location>
+                    <manufacturer>Lamborghini</manufacturer>
+                    <launched>February 28, 2011</launched>
+                </details>
+            </development>
+
+            <availability>
+                <availability1>Road</availability1>
+                <availability2>Race Track</availability2>
+            </availability>
+
+           
+        </superCar>
+    </car4>
+
+    <car5>
+        <car_brand>Ford</car_brand>
+        <muscle>
+            <specification>
+            <model>sixth-generation Ford Mustang (S550)</model>
+                <dimension>
+                        <overallDimensions>4,784 x 1,916 x 1,381 (mm)</overallDimensions>
+                        <wheelBase>2,720 (mm)</wheelBase>
+                        <seatingCapacity>4</seatingCapacity>
+                    </dimension>
+
+                    <engine>
+                        <engineType>2.3 L EcoBoost I4 3.7 L Cyclone V6 (2015-2017) 5.0 L Coyote V8 5.2 L Voodoo V8 (2015-2020 Shelby GT350 GT350R) 5.2 L Predator V8 (2020-2023 Shelby GT500)</engineType>
+                        <engineDisplacement>4,951cc</engineDisplacement>
+                        <fuelCapacity>61 L</fuelCapacity>
+                    </engine>
+
+                    <transmission>
+                        <powerTransmission>6-Speed manual (Tremec TR-3160)</powerTransmission>
+                        <frontBrakeRearBrake>Ventilated Discs/ Drum Type</frontBrakeRearBrake>
+                        <tyres> 265/60 R18</tyres>
+                        <wheelsSize>18" Alloy Wheel</wheelsSize>
+                    </transmission>
+            </specification>
+
+            <development>
+                <details>
+                    <location>United States</location>
+                    <manufacturer>Ford</manufacturer>
+                    <launched>July 25, 2014</launched>
+                </details>
+            </development>
+
+            <availability>
+                <availability1>Road</availability1>
+                <availability2>Race Track</availability2>
+            </availability>
+
+            
+        </muscle>
+    </car5>
+</car>
